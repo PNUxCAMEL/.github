@@ -1,2 +1,1 @@
-# .github
-CAMEL profile
+# CAMEL (Computer And Machine Engaged Lab.)
