@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/PNUxCAMEL/.github/blob/main/Asset%2027.png" width="600">
+  <img src="https://github.com/PNUxCAMEL/.github/blob/main/Asset%2027.jpg" width="600">
 </p>
 
 <div align="center">
