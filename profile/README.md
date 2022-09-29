@@ -1,7 +1,11 @@
 
-<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/PNUxCAMEL/.github/blob/main/Asset%2027.jpg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/PNUxCAMEL/.github/blob/main/Asset%2027.png">
+  <p align="center">
   <img src="https://github.com/PNUxCAMEL/.github/blob/main/Asset%2027.jpg" width="600">
-</p>
+  </p>
+</picture>
 
 <div align="center">
   
